@@ -1,6 +1,8 @@
 package exercise1;
 
-public abstract class Employee {
+import exercise2.Payable;
+
+public abstract class Employee implements Payable {
 	private final String name;
 	private int sales = 0;
 	private int workedHours = 0;
@@ -9,6 +11,7 @@ public abstract class Employee {
 		this.name = name;
 	}
 
+	@Override
 	public abstract int computeSalary();
 
 	public void sell() {
