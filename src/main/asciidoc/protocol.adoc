@@ -204,7 +204,7 @@ adaptées pour utiliser la classe `Point` fournie dans l'archive.
 * Les coordonnées des sommets seront choisis entre 0 et 300.
 ====
 
-image::exercise3-classes.svg[]
+image::images/exercise3-classes.svg[]
 
 === Exercice 4
 
