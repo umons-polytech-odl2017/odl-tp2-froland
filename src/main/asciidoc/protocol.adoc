@@ -141,7 +141,7 @@ représentées par un type entier, doivent toutefois pouvoir être modifiées ul
 Une superclasse abstraite Employe sera créée en vue de traiter de manière polymorphe les
 différents employés de l'entreprise.
 
-image::exercise1-classes.svg[]
+image::images/exercise1-classes.svg[]
 
 === Exercice 2
 
