@@ -158,7 +158,7 @@ salaire mensuel = rétribution par pièce * production
 
 WARNING: La classe `ProductionWorker` ne peut pas hériter d'une quelconque classe de type `Employee` déjà définie.
 
-image::exercise2-classes.svg[]
+image::images/exercise2-classes.svg[]
 
 === Exercice 3
 
